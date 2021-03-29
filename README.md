@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
@@ -86,4 +87,6 @@ Your final product will be assessed on the following metrics:
 Trilogy Education Services © 2019. All Rights Reserved.
 =======
 
->>>>>>> 491103e000e321c66cea9f60a13d6cbae37376f3
+=======
+
+
